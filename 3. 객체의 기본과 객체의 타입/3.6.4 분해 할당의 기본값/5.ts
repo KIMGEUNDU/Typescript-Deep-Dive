@@ -1,7 +1,7 @@
 type NestedObj = {
   obj?: {
-    foo: number
-  }
+    foo: number;
+  };
 };
 const nested1: NestedObj = {
   obj: { foo: 123 }
