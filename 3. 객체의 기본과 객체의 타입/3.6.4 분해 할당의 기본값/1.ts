@@ -1,4 +1,4 @@
-type Obj = { foo?: number };
+type Obj = { foo?: number; };
 const obj1: Obj = {};
 const obj2: Obj = { foo: -1234 };
 
