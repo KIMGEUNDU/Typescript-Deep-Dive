@@ -4,4 +4,4 @@ const nested = {
     foo: "hello",
     bar: "world"
   }
-}
+};
