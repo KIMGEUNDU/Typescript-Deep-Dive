@@ -4,6 +4,13 @@
 
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313290072&start=slayer">📚 프로가 되기 위한 타입스크립트 프로그래밍 입문</a></center>
 
+<br>
+🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
+<br>
+<br>
+<br>
+<br>
+<br>
 
 📘 0차 모임  
 일시 : 2024년 1월 2일 화요일 13시 30분  
